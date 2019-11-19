@@ -1,0 +1,28 @@
+.nav-wedding-content>p{
+	line-height: 24px;
+	position:relative;
+	letter-spacing:1px;
+}
+.wedding-nav-show-img>a{
+	width: 330px;
+}
+.wedding-content>div>.title{
+	display: inline-block;
+	position:relative;
+	top:0;
+	left:0;
+	margin-left:0;
+	padding-top: 30px;
+}
+.wedding-content>div>.title>i{
+	position: absolute;
+	bottom: 0;
+	left:50%;
+	width:50%;
+	margin-left: -25%;
+	height:1px;
+	background: #840812;
+}
+.wedding-content>div>.title>span:nth-of-type(1){
+	font-size:20px;
+}
